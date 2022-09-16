@@ -6,7 +6,8 @@ public class activity2 {
         System.out.print("Enter a sentence: ");
         Scanner input = new Scanner(System.in);
         String sen = input.nextLine();
-
+	
+	System.out.print("Egit sumple: ");
         char[] charArray = sen.toCharArray();
         boolean x = true;
 
