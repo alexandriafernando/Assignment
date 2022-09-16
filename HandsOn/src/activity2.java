@@ -7,7 +7,7 @@ public class activity2 {
         Scanner input = new Scanner(System.in);
         String sen = input.nextLine();
 	
-	System.out.print("Egit sumple: ");
+	
         char[] charArray = sen.toCharArray();
         boolean x = true;
 
